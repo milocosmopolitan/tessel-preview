@@ -1,0 +1,17 @@
+{
+  "name": "tessel-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ambient-attx4": "^0.2.11",
+    "ir-attx4": "^0.2.10",
+    "servo-pca9685": "^0.1.3",
+    "tessel-av": "^0.14.0"
+  }
+}
